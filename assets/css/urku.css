@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: #f80303;
+  background-color: #6d03f8;
   position: relative;
   z-index: 5;
 }
@@ -234,7 +234,7 @@ body {
 }
 
 .rk-footer__text {
-  color: #0019fd;
+  color: #0cfa04;
   font-size: .75rem;
   margin-bottom: .875rem;
 }
